@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "627470589273",
+    "firebase_url": "https://notespickupadd.firebaseio.com",
+    "project_id": "notespickupadd",
+    "storage_bucket": "notespickupadd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627470589273:android:a8a8477804f73e6ce14048",
+        "android_client_info": {
+          "package_name": "com.example.notespickupadd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627470589273-klaoegrjq4gaa6ebimf4d3r5pb9vcq56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsU4Fn1l_weOPxsT_Lb9c4C7LXnwOBHE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627470589273-klaoegrjq4gaa6ebimf4d3r5pb9vcq56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
